@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am making full-stack web applications using express and sveltekit.<br><br>
+I am making full-stack web applications using Express and SvelteKit.<br><br>
 
 
 ## 🌐 Socials:
