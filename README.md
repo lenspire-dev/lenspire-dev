@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am making full-stack web applications using Express and SvelteKit. Also messing with Flutter and Unreal Engine.<br><br>
+I am making full-stack web applications using SvelteKit. Also messing with Flutter and Unreal Engine.<br><br>
 
 
 ## 🌐 Socials:
