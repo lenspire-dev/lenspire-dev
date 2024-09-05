@@ -10,9 +10,9 @@ I am making full-stack web applications using SvelteKit. Also messing with Flutt
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lenspire-dev&icon=2&color=4)](https://visitcount.itsvg.in)
-
+<!--
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/lenspiredev) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
