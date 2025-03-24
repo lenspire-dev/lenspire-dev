@@ -7,7 +7,7 @@
   <a href="https://www.lenspire.dev/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:emirkorkut.d@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -53,6 +53,7 @@ I am a self-taught software developer and entrepreneur who transformed a childho
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-0080FF?style=for-the-badge&logo=appwrite&logoColor=white)
 
 ### Mobile & Desktop
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -63,8 +64,7 @@ I am a self-taught software developer and entrepreneur who transformed a childho
 ## ⭐ Featured Projects
 
 - **[Working on it...]()**  
-  
-
+  Stay tuned for exciting projects coming soon!
 
 ---
 
@@ -79,7 +79,8 @@ I am a self-taught software developer and entrepreneur who transformed a childho
 
 ## 📫 Let's Connect
 
-- **Email:** emirkorkut.d@gmail.com 
+- **Email:** emirkorkut.d@gmail.com  
 - **LinkedIn:** [lenspire-dev](https://www.linkedin.com/in/lenspire-dev/)  
 - **Portfolio:** [www.lenspire.dev](https://www.lenspire.dev/)
 
+*Let's connect and build the future of tech together!*
