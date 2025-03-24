@@ -62,10 +62,9 @@ I am a self-taught software developer and entrepreneur who transformed a childho
 
 ## ⭐ Featured Projects
 
-- **[Project Name](https://github.com/yourusername/projectname)**  
-  A brief description that highlights the project’s value.
-- **[Project Name](https://github.com/yourusername/projectname)**  
-  A brief description that highlights the project’s value.
+- **[Working on it...]()**  
+  
+
 
 ---
 
