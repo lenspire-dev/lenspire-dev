@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Emir – Passionate Developer & Entrepreneur 🚀</h1>
+<h1 align="center">Hello, I'm Emir – Passionate Developer & Entrepreneur </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lenspire-dev/">
@@ -80,8 +80,7 @@ I am a self-taught software developer and entrepreneur who transformed a childho
 
 ## 📫 Let's Connect
 
-- **Email:** your.email@example.com  
+- **Email:** emirkorkut.d@gmail.com 
 - **LinkedIn:** [lenspire-dev](https://www.linkedin.com/in/lenspire-dev/)  
 - **Portfolio:** [www.lenspire.dev](https://www.lenspire.dev/)
 
-*Haydi, birlikte teknolojinin geleceğini inşa edelim!*
