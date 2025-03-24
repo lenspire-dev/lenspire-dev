@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Emir – Passionate Developer & Entrepreneur </h1>
+<h1 align="center">Hello, I'm Emir – Developer & Entrepreneur 🚀</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lenspire-dev/">
@@ -16,13 +16,13 @@
 
 ## 🚀 About Me
 
-I am a self-taught software developer and entrepreneur who transformed a childhood passion into a professional career in 2023. With hands-on experience across **11 different engineering disciplines**, I bridge the gap between software, hardware, and innovation.
+I'm a self-taught software developer and entrepreneur who transformed a lifelong passion for technology into a professional career in 2023. My journey has led me to explore various aspects of software development—from web technologies and electronic programming to Linux systems and creative design.
 
 **Key Interests & Goals:**
-- **JavaScript Ecosystem:** Building dynamic, modern web applications.
+- **JavaScript Ecosystem:** Crafting dynamic, modern web applications.
 - **Emerging Technologies:** Actively exploring Rust, Tauri.rs, Svelte.js, and Bun.js.
-- **Broad Technical Expertise:** From web development and electronics programming to Linux systems and diverse programming languages.
-- **Design & Production:** Combining technical proficiency with creative design to produce innovative solutions.
+- **Broad Technical Expertise:** Merging web development with creative design and production.
+- **Continuous Learning:** Always seeking new challenges and opportunities to grow.
 
 ---
 
